@@ -23,9 +23,9 @@ npm install (Komenda zainstaluje Cypress i wszystkie wymagane pakiety)
 3. Tryb interaktywny (z przeglądarką)
 ```bash
 npx cypress open
-
+---
 ## ⭐ Dodatkowo
-
+---
  🔹 Uruchom pojedynczy test
  ```bash
  npx cypress run --spec "cypress/e2e/smokeTests.spec.js"
