@@ -1,0 +1,5 @@
+node_modules/
+.vscode/
+cypress/videos/
+cyppress/screenshots/
+.DS_Store
