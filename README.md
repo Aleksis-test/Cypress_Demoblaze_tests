@@ -55,6 +55,7 @@ Ten zestaw testów sprawdza najważniejsze funkcjonalności strony, które musz�
 ---Testy kategorii produktów
 ---Testy stopki
 
+
 👤 Autor
 
 Twoje Aleksandra Janas
