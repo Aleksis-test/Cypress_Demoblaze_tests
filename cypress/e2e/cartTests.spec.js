@@ -5,7 +5,7 @@ describe('Card Testy', () => {
 	beforeEach('Open home page', () => {
 		cy.visit('');
 	});
-	it('TC-027 Dodawanie produktu do koszyka ze strony głównej', () => {
+	it('TC-027 Dodawanie produkt do koszyka ze strony głównej', () => {
 		CartPage.addProductToCart('Samsung galaxy s6');
 		CartPage.goToCart();
 		CartPage.shouldContainProduct('Samsung galaxy s6');
