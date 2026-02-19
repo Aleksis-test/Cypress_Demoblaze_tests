@@ -1,4 +1,14 @@
 {
+  "name": "demoblaze-cypress",
+  "version": "1.0.0",
+  "description": "automatyzacja testów w cypress",
+  "keywords": [
+    "automatyzacja",
+    "cypress",
+    "testy"
+  ],
+  "author": "Aleksandra Janas",
+  "license":"ISC",
   "devDependencies": {
     "cypress": "^15.9.0"
   }
