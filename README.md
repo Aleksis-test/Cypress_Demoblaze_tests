@@ -68,6 +68,9 @@ Ten zestaw testów sprawdza najważniejsze funkcjonalności strony, które musz�
 ---Plan testów pdf
 (docs/Plan_testów_Demoblaze.pdf)
 
+---Zgłoszenie błędu Jira
+(docs/Zgłoszenie_błędu_Jira.png)
+
 
 👤 Autor
 
