@@ -24,7 +24,8 @@ npm install (Komenda zainstaluje Cypress i wszystkie wymagane pakiety)
 ```bash
 npx cypress open
 
-⭐ Dodatkowo
+## ⭐ Dodatkowo
+
  🔹 Uruchom pojedynczy test
  ```bash
  npx cypress run --spec "cypress/e2e/smokeTests.spec.js"
@@ -35,7 +36,7 @@ npx cypress run --browser chrome
 npx cypress run --browser firefox
 npx cypress run --browser edge
 
-🧪 Opis testów
+## 🧪 Opis testów
 
 ✅ Cart Testy (cartTests.spec.js)
 
