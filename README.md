@@ -56,6 +56,14 @@ Ten zestaw testów sprawdza najważniejsze funkcjonalności strony, które musz�
 ---Testy kategorii produktów
 ---Testy stopki
 
+## 📊 Dokumentacja testów
+
+---Test case'y dostępne w pliku Excel:
+(docs/Demoblaze.Test_cases.xlsx)
+
+---Testy Wydajnościowe:
+(docs/preformance_tests)
+
 
 👤 Autor
 
