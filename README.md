@@ -3,6 +3,7 @@ markdown
 # Projekt testów Cypress
 
 Projekt zawiera testy automatyczne napisane w Cypress dla https://www.demoblaze.com/.
+Projekt jest zintegrowany z Jenkins CI/CD
 
 ## 📋 Wymagania
 
