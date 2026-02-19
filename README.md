@@ -65,6 +65,9 @@ Ten zestaw testów sprawdza najważniejsze funkcjonalności strony, które musz�
 ---Testy Wydajnościowe:
 (docs/preformance_tests)
 
+---Plan testów pdf
+(docs/Plan_testów_Demoblaze.pdf)
+
 
 👤 Autor
 
