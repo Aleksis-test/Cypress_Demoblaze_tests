@@ -7,6 +7,10 @@
     "cypress",
     "testy"
   ],
+  "scripts": {
+  "test": "cypress run", 
+  "test:open": "cypress open"
+},
   "author": "Aleksandra Janas",
   "license":"ISC",
   "devDependencies": {
